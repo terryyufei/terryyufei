@@ -9,8 +9,8 @@ I am a software engineering student at Alx Africa, currently learning several pr
 * 🌍  I'm based in Naivasha, Kenya
 * 🖥️  See my portfolio at [Github](http://github.com/terryyufei)
 * ✉️  You can contact me at [shikuwambui@gmail.com](mailto:shikuwambui@gmail.com)
-* 🚀  I'm currently working on [Twitter](http://twitter.com/Mssophia_)
-* 🧠  I'm currently working towards being a frontend developer.
+* 🚀  I'm currently working towards being a frontend developer.
+* 🧠  I'm learning as many things as I can about software engineering.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretlty spider-man, but don't tell anyone.
 
