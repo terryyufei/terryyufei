@@ -4,15 +4,15 @@ Hi 👋 My name is Terry Wambui
 software engineering student
 ----------------------------
 
-I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, JavaScript, HTML, and CSS. As a student, am focused on building a strong foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
+I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
 
 * 🌍  I'm based in Naivasha, Kenya
-* 🖥️  See my portfolio at [Github](http://github.com/terryyufei)
+* 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/)
 * ✉️  You can contact me at [shikuwambui@gmail.com](mailto:shikuwambui@gmail.com)
-* 🚀  I'm currently working towards being a frontend developer.
+* 🚀  I'm currently working towards being a full-stack engineer.
 * 🧠  I'm learning as many things as I can about software engineering.
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretlty spider-man, but don't tell anyone.
+* ⚡  I'm secretly Spider-Man but don't tell anyone.
 
 <a href="https://www.github.com/terryyufei" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/terryyufei?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Mssophia_" target="_blank" rel="noreferrer"><img
